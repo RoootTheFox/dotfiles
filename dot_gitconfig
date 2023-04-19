@@ -1,0 +1,10 @@
+[user]
+	email = hey@rooot.gay
+	name = rooot
+	signingkey = hey@rooot.gay
+[credential]
+	helper = store
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main

@@ -1,0 +1,4 @@
+[".dot/meta"]
+    type = "git-repo"
+    url = "https://github.com/roootthefox/dotfiles-meta"
+    refreshPeriod = "12h"
