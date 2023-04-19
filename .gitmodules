@@ -1,3 +1,6 @@
 [submodule "dot_dot/external_powerlevel10k"]
 	path = dot_dot/external_powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k
+[submodule "dot_dot/external_meta"]
+	path = dot_dot/external_meta
+	url = https://github.com/roootthefox/dotfiles-meta
